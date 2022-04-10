@@ -9,12 +9,8 @@ lambda <- 3
 set.seed(1)
 angka_random <- rnorm(1)
 
-#print(angka_random)
-
 eksponensial <- lambda * exp(-1 * angka_random*lambda)
 print(eksponensial)
-
-dexp(x = angka_random, rate = lambda)
 
 #5b Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
 

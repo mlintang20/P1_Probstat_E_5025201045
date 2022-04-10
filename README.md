@@ -84,3 +84,23 @@ Menggunakan fungsi bawaan rchisq dengan nilai n=100 dan df = v = 10 dan fungsi h
 
 Rumus rataan distribusi chi square adalah: v.
 Sedangkan rumus varian distribusi chi square adalah: 2v
+
+## Soal 5
+
+### 5a
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_5a.png?raw=true)
+
+Menggunakan rumus distribusi eksponensial kemudian memasukkan variabel-variabelnya (lambda dan angka_random), untuk angkarandom menggunak set.seed(1) dan rnorm(1)
+
+### 5b
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_5b.png?raw=true)
+
+Menggunakan fungsi bawaan rexp dengan data random = 10/100/1000/10000 dan rate = lambda = 3
+
+### 5c
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_5c.png?raw=true)
+
+Rumus rataan distribusi eksponensial : 1/lambda..
+Sedangkan rumus varian distribusi eksponensial: (1/lambda)^2
+
+
