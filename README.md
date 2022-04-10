@@ -67,4 +67,20 @@ Membuat histogram kelahiran 6 bayi akan lahir di rumah sakit selama setahun / 36
 
 RUmus nilai rataan dan varian dari Distribusi Poisson sama dengan nilai rata-ratanya
 
+## Soal 4
 
+### 4a
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_4a.png?raw=true)
+
+Menggunakan rumus distribusi chi-square kemudian memasukkan variabel-variabelnya (x =2; v = 10)
+
+### 4b
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_4b.png?raw=true)
+
+Menggunakan fungsi bawaan rchisq dengan nilai n=100 dan df = v = 10 dan fungsi hist() untuk menggambar histogramnya
+
+### 4c
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_4c.png?raw=true)
+
+Rumus rataan distribusi chi square adalah: v.
+Sedangkan rumus varian distribusi chi square adalah: 2v
