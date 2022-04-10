@@ -47,3 +47,24 @@ Menggunakan plot dengan tipe 'h' dan dbinom dengan memasukkan variabel x, n, dan
 Rumus rataan distribusi binomial : rataan <- n * p.
 Sedangkan rumus varian distribusi binomial: varian <- n * p * (1-p)
 
+## Soal 3
+
+### 3a
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_3a.png?raw=true)
+
+Menggunakan rumus distribusi poisson kemudian memasukkan variabel-variabelnya
+
+### 3b
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_3b.png?raw=true)
+
+Membuat histogram kelahiran 6 bayi akan lahir di rumah sakit selama setahun / 365 hari
+
+### 3c
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_3c.png?raw=true)
+
+### 3d
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_3d.png?raw=true)
+
+RUmus nilai rataan dan varian dari Distribusi Poisson sama dengan nilai rata-ratanya
+
+
