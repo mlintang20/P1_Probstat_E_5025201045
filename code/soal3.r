@@ -14,16 +14,24 @@ d_poisson <- ( exp(-rata_rata) * rata_rata^jml_lahir ) / factorial(jml_lahir)
 print(d_poisson)
 
 #atau bisa menggunakan
-dpois(jml_lahir, rata_rata)
+dpois(x = jml_lahir, lambda = rata_rata)
 
 #3b
 #simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit 
 #ini selama setahun (n = 365)
 
-
+rand_poisson <- rpois(n = 365, lambda = 6)
+hist(rand_poisson)
 
 #3c dan bandingkan hasil poin a dan b , Apa kesimpulan yang bisa didapatkan
 
+#Jawab:
+#Pada 3a akan didapatkan hasil pasti yaitu 0.1281201 sedangkan pada 3b
+#didapat hasil random selama setahun (365 hari)
+#Jadi kesimpulannya pada 3a dilakukan perhitungan peluang bahwa 6 bayi akan
+#lahir di rumah sakit ini besok
+#sedangkan untuk 3b peluang bahwa 6 bayi akan lahir di rumah sakit ini selama
+#setahun (365 hari)
 
 #3d Nilai Rataan dan Varian dari Distribusi Poisson.
 
