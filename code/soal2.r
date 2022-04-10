@@ -25,7 +25,7 @@ plot(x, dbinom(x, n, p),type='h')
 #rumus rataan distribusi binomial
 rataan <- n * p
 
-#rumus varian distribusi geometrik
+#rumus varian distribusi binomial
 varian <- n * p * (1-p)
 
 print(rataan)
