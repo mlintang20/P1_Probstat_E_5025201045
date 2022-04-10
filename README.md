@@ -103,4 +103,30 @@ Menggunakan fungsi bawaan rexp dengan data random = 10/100/1000/10000 dan rate =
 Rumus rataan distribusi eksponensial : 1/lambda..
 Sedangkan rumus varian distribusi eksponensial: (1/lambda)^2
 
+## Soal 6
 
+### 6a
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_6a.png?raw=true)
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_6a_2.png?raw=true)
+
+Menghitung probabilitas dari distribusi normal kemudian mengitung Z-score dan plot data random dengan fungsi plot()
+
+### 6b
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_6b.png?raw=true)
+
+Generate histogram menggunakan fungsi hist() dengan format nama seperti pada soal 6b
+
+### 6c
+![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_6c.png?raw=true)
+
+Rumus varian distribusi normal adalah s_deviasi^2 atau s_deviasi * s_deviasi
+
+## Referensi
+- https://jagostat.com/teori-peluang/distribusi-eksponensial
+- https://r-coder.com/set-seed-r/
+- https://www.geeksforgeeks.org/exponential-distribution-in-r-programming-dexp-pexp-qexp-and-rexp-functions/#:~:text=The%20exponential%20distribution%20in%20R,case%20of%20the%20gamma%20distribution.
+- https://rpubs.com/mpfoley73/460935#:~:text=R%20function%20rchisq(n%2C%20df,tail%20%3D%20TRUE%20).
+- https://www.youtube.com/watch?v=hcDb12fsbBU
+- https://jagostat.com/teori-peluang/rataan-dan-varians-distribusi-chi-square#:~:text=Distribusi%20Chi%2DSquare%20banyak%20digunakan,banyak%20digunakan%20dalam%20bidang%20statistika.
+- https://jagostat.com/teori-peluang/distribusi-geometrik
+- https://www.statology.org/dgeom-pgeom-qgeom-rgeom-r/#:~:text=dgeom%3A%20returns%20the%20value%20of,of%20geometric%20distributed%20random%20variables.
