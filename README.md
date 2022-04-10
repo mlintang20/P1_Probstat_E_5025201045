@@ -12,9 +12,6 @@
 ![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_1c.png?raw=true)
 
 ### 1d
-![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_1c.png?raw=true)
-
-### 1d
 ![alt text](https://github.com/mlintang20/P1_Probstat_E_5025201045/blob/master/images/ss_1d.png?raw=true)
 
 ### 1e
